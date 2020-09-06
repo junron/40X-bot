@@ -1,0 +1,6 @@
+/.gradle/
+/.idea/
+/build/
+/data/
+/config.json
+/src/main/kotlin/com/m2040x/bot/Analysis.kt
